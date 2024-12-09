@@ -3,3 +3,6 @@ sddasd
 =======
 ahoj z githubu
 >>>>>>> 02f63983b8fcfd4dc622f1e3339d2aa1f8e242dd
+
+
+adasdasd
